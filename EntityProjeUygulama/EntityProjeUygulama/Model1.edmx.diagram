@@ -12,6 +12,7 @@
         <AssociationConnector Association="DbEntityUrunModel.FK_Tbl_Urunler_Tbl_Kategoriler" ManuallyRouted="false" />
         <AssociationConnector Association="DbEntityUrunModel.FK_Tbl_Satislar_Tbl_Musteriler" ManuallyRouted="false" />
         <AssociationConnector Association="DbEntityUrunModel.FK_Tbl_Satislar_Tbl_Urunler" ManuallyRouted="false" />
+        <EntityTypeShape EntityType="DbEntityUrunModel.Tbl_Admin" Width="1.5" PointX="5.375" PointY="4.75" />
       </Diagram>
     </edmx:Diagrams>
   </edmx:Designer>
